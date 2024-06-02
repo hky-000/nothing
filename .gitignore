@@ -1,0 +1,12 @@
+# my options 
+prepare_dataset/*
+models_mamba/pretrained/*
+# tools/ablation
+# tools/visualization
+
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
